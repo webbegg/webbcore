@@ -1,0 +1,16 @@
+{
+  "name": "webbcore",
+  "version": "0.0.2",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/webbegg/webbcore"
+  },
+  "author": {
+    "name": "Marcos Juan",
+    "email": "webbegg@gmail.com",
+    "url": "https://webbegg.com"
+  },
+  "devDependencies": {
+    "nitropack": "^0.4.9"
+  }
+}
